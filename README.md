@@ -2,6 +2,7 @@ rollup-errors
 =============
 
 ```
+yarn
 yarn build
 ```
 
